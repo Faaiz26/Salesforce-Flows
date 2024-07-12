@@ -1,0 +1,5 @@
+Scenario
+
+	Create 'N' Opportunity or contact records related to Account based on user choice.
+
+  This scenario will help us to understand how to implement loop through decision element when collection variable is missing.
